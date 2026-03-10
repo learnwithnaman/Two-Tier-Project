@@ -9,6 +9,7 @@ services:
       MYSQL_USER: admin
       MYSQL_PASSWORD: admin
       MYSQL_DATABASE: devops-db
+      MYSQL_ROOT_HOST: "%"
     ports:
       - "3306:3306"
     volumes:
@@ -51,5 +52,3 @@ volumes:
 
 networks:
   two-tier:
-    external: true 
-
