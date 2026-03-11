@@ -139,7 +139,7 @@ sudo systemctl restart jenkins
 ## Step 8: GitHub Repository Structure
 
 ```
-📁 Two-Tier-Project/
+📁 two-tier-flask-cicd-pipeline-aws/
 ├── 📁 diagram/
 ├── 📁 templates/
 ├── 📄 Dockerfile
@@ -286,6 +286,7 @@ This project demonstrates a real-world DevOps workflow where deployment is fully
 
 
 *Built with ❤️ by **Naman Pandey** - DevOps | Cloud Engineer*
+
 
 
 
