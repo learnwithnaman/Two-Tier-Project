@@ -139,14 +139,16 @@ sudo systemctl restart jenkins
 ## Step 8: GitHub Repository Structure
 
 ```
-Dockerfile
-docker-compose.yml
-Jenkinsfile
-app.py
-requirements.txt
-templates/
-```
-
+📁 Two-Tier-Project/
+├── 📁 diagram/
+├── 📁 templates/
+├── 📄 Dockerfile
+├── 📄 Jenkinsfile
+├── 📄 README.md
+├── 📄 app.py
+├── 📄 docker-compose.yml
+├── 📄 message.sql
+└──
 
 ## 🐳 Dockerfile
 
@@ -283,5 +285,6 @@ This project demonstrates a real-world DevOps workflow where deployment is fully
 
 
 *Built with ❤️ by **Naman Pandey** - DevOps | Cloud Engineer*
+
 
 
