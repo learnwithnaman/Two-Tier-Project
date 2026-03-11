@@ -282,5 +282,6 @@ This project demonstrates a real-world DevOps workflow where deployment is fully
 
 
 
-*Built with ❤️ by **Naman Pandey** — DevOps | Cloud Engineer*
+*Built with ❤️ by **Naman Pandey** - DevOps | Cloud Engineer*
+
 
