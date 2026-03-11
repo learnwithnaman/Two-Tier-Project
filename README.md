@@ -68,14 +68,6 @@ The application is built using **Flask (Python) and MySQL**, deployed using **Do
 
 Allow the following inbound ports:
 
-| Service | Port |
-|---------|------|
-| SSH | 22 |
-| HTTP | 80 |
-| Flask Application | 5000 |
-| Jenkins | 8080 |
-| MySQL | 3306 |
-
 ![Security Group](diagram/3.jpg)
 
 
@@ -291,6 +283,7 @@ http://<EC2-PUBLIC-IP>:5000
 ## 🏁 Conclusion
 
 This project demonstrates a real-world DevOps workflow where deployment is fully automated. By integrating **GitHub, Jenkins, Docker, and AWS**, the process becomes faster, repeatable, and reliable.
+
 
 
 *Built with ❤️ by **Naman Pandey** — DevOps | Cloud Engineer*
