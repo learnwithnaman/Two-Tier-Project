@@ -126,10 +126,6 @@ Open in browser: `http://<EC2-PUBLIC-IP>:8080`
 
 Paste the password and install suggested plugins.
 
-<!-- 📷 Place image: diagrams/jenkins-setup.png -->
-![Jenkins Setup](diagrams/jenkins-setup.png)
-
-
 ## Step 7: Give Jenkins Docker Permission
 
 ```bash
@@ -287,3 +283,4 @@ This project demonstrates a real-world DevOps workflow where deployment is fully
 
 
 *Built with ❤️ by **Naman Pandey** — DevOps | Cloud Engineer*
+
