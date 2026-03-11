@@ -149,6 +149,7 @@ sudo systemctl restart jenkins
 ├── 📄 docker-compose.yml
 ├── 📄 message.sql
 └──
+```
 
 ## 🐳 Dockerfile
 
@@ -285,6 +286,7 @@ This project demonstrates a real-world DevOps workflow where deployment is fully
 
 
 *Built with ❤️ by **Naman Pandey** - DevOps | Cloud Engineer*
+
 
 
 
